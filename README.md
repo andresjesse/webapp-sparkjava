@@ -1,4 +1,4 @@
 # webapp-sparkjava
 Mini aplicação Web construída com SQLite, OrmLite e SparkJava
 
-Made with IntelliJ Idea.
+Este repositório é um projeto da IDE IntelliJ Idea.
